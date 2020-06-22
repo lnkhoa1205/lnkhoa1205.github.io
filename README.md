@@ -14,9 +14,9 @@
 - Front end 9/10
 - Framework laravel 9/10
 ## Ngôn ngữ
-**English**   *Thông thạo*
-**French**  *Good*
-**China**   *Good*
+- **English**   *Thông thạo*
+- **French**  *Good*
+- **China**   *Good*
 ## Học tập
 ### Cử nhân công nghệ thông tin 
 - Đại học An Giang
@@ -50,6 +50,42 @@
   - Được đánh giá tích cực bởi giáo viên: Có tinh thần học tập cao và công việc khó khăn. Nghe và chấp nhận nhận xét. 
   - Kỹ năng: Sử dụng Laravelđể kết nối với MySQL và sử dụng Blade Templates để có giao diện cơ bản. Sử dụng các thư viện của Laravel như Authentication. Sử dụng routing, controllers, requests, middleware cho HTTP.
   ## Hoạt động
+  ### Làm công việc bán thời gian
+ - Cho khách hàng dùng thử sản phẩm mới. 
+  - Mời dùng thử và đánh giá sản phẩm, giới thiệu những điểm mới của sản phẩm. Ghi nhận ý kiến của khách hàng về sản phẩm. 
+ - Kinh nghiệm có được: 
+  - Mở rộng các mối quan hệ xã hội. 
+  - Học hỏi kinh nghiệm làm việc, hành vi trong nhiều trường hợp từ các đồng nghiệp. 
+  - Tăng cường kỹ năng giao tiếp Hỏi khách hàng một số câu hỏi có sẵn về sữa uống cho trẻ mà họ thường dùng, thời gian và khối lượng. 
+  - Ghi nhận ý kiến của khách hàng về sản phẩm. Kinh nghiệm có được: 
+  - Mở rộng các mối quan hệ xã hội. 
+  - Biết cách lắng nghe và hiểu hơn về nhu cầu của người dùng. 
+  - Tăng cường kỹ năng giao tiếp
+  ### Tham gia mọi hoạt động trường tổ chức 
+  Cùng lớp được nhiều khen thưởng của trường và đoàn.
+  ### Tham gia mùa hè xanh, tiếp sức mùa thi và cũng nhiều các hoạt động xã hội khác
+## Dự án
+- Xây dựng một số web bán hàng, quản lí công ty,... 
+- Platform gợi ý việc
+## Thông Tin Thêm
+- Có nhiều kỹ năng mềm, vui vẻ hòa đồng với đồng nghiệp. 
+- Chăm chỉ, cầu tiến, khả năng teamwork tốt. - Có khả năng thích nghi với môi trường mới 
+- Thông thạo tin học văn phòng ( word, excel, power point...) 
+- Yêu thích các sản phẩm phần mềm có chất lượng cao - Nhiệt huyết trong công việc, sẵn sàng làm thêm giờ nếu cần 
+### Công việc mong muốn
+- Số năm kinh nghiệm : chưa có kinh nghiệm 
+- Trình độ học vấn : Cử nhân 
+- Nơi làm việc : An Giang , TP HCM , Cần Thơ 
+- Ngành nghề : Công nghệ thông tin 
+- Loại hình công việc : Hợp đồng 
+- Cấp bậc : Nhân viên
+### Mục tiêu nghề nghiệp
+Áp dụng những kinh nghiệm cũng như những kỹ năng về ngôn ngữ php, html, css.... được học trong nhà trường để trở thành một Web Developer mang đến những giá trị thiết thực. Góp phần giúp công ty ngày càng phát triển.
+
+
+
+
+
   
 
 
